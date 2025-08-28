@@ -193,8 +193,6 @@ Ministry of Education<br/>
 <div align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidaman30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidaman30&theme=tokyonight&hide_border=true" />
 
   <br />
 
