@@ -127,7 +127,7 @@ I'm a **passionate Data Scientist** with a unique background in **Agriculture** 
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div>
 
 ```python
 class FepiSidabalok:
