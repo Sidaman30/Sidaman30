@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🌟 About Me
@@ -29,29 +29,24 @@ I'm a **passionate Data Scientist** with a unique background in **Agriculture** 
 ## 🚀 My Journey
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fepi-sidabalok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fepi-sidabalok&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fepi-sidabalok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fepi-sidabalok&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📚 Education & Learning Path
 
-```mermaid
-timeline
-    title My Learning Journey
-    
-    2018-2022 : Agriculture Degree
-              : HKBP Nommensen University
-              : GPA 3.91/4.00 (Laude) 🎓
-              : BIDIKMISI Scholarship
-              
-    2023-Present : Banking Professional
-                 : PT Bank Victoria International
-                 : Customer Service Excellence
-                 
-    2025-Present : Data Science
-                 : Dibimbing Bootcamp
-                 : Python • SQL • Tableau
-```
+**🎓 Agriculture Degree (2018-2022)**
+- HKBP Nommensen University
+- GPA 3.91/4.00 (Laude)
+- BIDIKMISI Scholarship
+
+**🏦 Banking Professional (2023-Present)**
+- PT Bank Victoria International
+- Customer Service Excellence
+
+**📊 Data Science (2025-Present)**
+- Dibimbing Bootcamp
+- Python • SQL • Tableau
 
 ---
 
@@ -63,7 +58,6 @@ timeline
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-0066CC?style=for-the-badge&logo=pascal&logoColor=white)
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -74,7 +68,6 @@ timeline
 
 ### 📈 Visualization & Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
@@ -85,7 +78,7 @@ timeline
 ## 🏆 Achievements & Awards
 
 <div align="center">
-  
+
 | 🏅 Award | 🏛️ Organization | 📅 Year |
 |----------|------------------|----------|
 | **Palm Oil Research Competition Winner** | Ministry of Finance RI (BPDPKS) | 2022 |
@@ -99,41 +92,29 @@ timeline
 
 ## 💼 Professional Experience
 
-<details>
-<summary><b>🏦 Current Role - Bank Teller (2023-Present)</b></summary>
-
+### 🏦 Bank Teller (2023-Present)
 - 💰 Processing transactions (deposits, withdrawals, transfers)
 - 👥 Customer service excellence and consultation
 - 📋 Compliance with banking regulations
 - 🔄 Cash management and transaction facilitation
 
-</details>
-
-<details>
-<summary><b>🛒 Purchasing Specialist (March-May 2023)</b></summary>
-
+### 🛒 Purchasing Specialist (March-May 2023)
 - 📦 Procurement and supplier negotiations
 - 🤝 Supplier relationship management
 - 📄 Documentation and invoice processing
 
-</details>
-
-<details>
-<summary><b>🎓 Assistant Lecturer (2022-2023)</b></summary>
-
+### 🎓 Assistant Lecturer (2022-2023)
 - 👨‍🏫 Teaching 40+ students
 - 📝 Assessment and feedback provision
 - 📊 Research methodology instruction
-
-</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepi-sidabalok&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fepi-sidabalok&theme=tokyo-night&hide_border=true&area=true" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepi-sidabalok&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fepi-sidabalok&theme=tokyo-night&hide_border=true&area=true" width="50%" alt="Activity Graph" />
 </div>
 
 ---
@@ -141,7 +122,7 @@ timeline
 ## 🎯 Current Focus
 
 <div align="center">
-  
+
 ```python
 class FepiSidabalok:
     def __init__(self):
@@ -172,16 +153,15 @@ class FepiSidabalok:
 ## 🌐 Let's Connect!
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fepi-sidabalok)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fepi.sidabalok@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fepi-sidabalok)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://fepi-sidabalok.github.io)
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 <div align="center">
