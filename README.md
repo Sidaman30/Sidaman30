@@ -1,181 +1,329 @@
-# Hi there! 👋 I'm Fepi Efta Pioni Sidabalok
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Agriculture+Graduate+%F0%9F%8C%B1;Banking+Professional+%F0%9F%8F%A6;Problem+Solver+%F0%9F%A7%A9;Team+Leader+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</div>
-
-## 🌟 About Me
-
-> *"Determination, hard work, discipline and honesty are the keys to success"* ✨
-
-I'm a **passionate Data Scientist** with a unique background in **Agriculture** and **Banking**. Currently pursuing advanced Data Science while working as a Teller at Bank Victoria International. My journey from farming to finance to data has equipped me with a diverse perspective on problem-solving and innovation.
+# Hi there! 👋 I'm **Fepi Efta Pioni Sidabalok**
 
 <div align="center">
   
-### 🎯 Quick Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Agriculture+%E2%9E%A4+Banking+%E2%9E%A4+Data+Science;Transforming+Ideas+into+Insights+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+</div>
+
+## 🎯 **About Me**
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```yaml
+Name: Fepi Efta Pioni Sidabalok
+Role: Data Science Enthusiast & Banking Professional
+Location: Indonesia 🇮🇩
+Current Focus: Transforming data into actionable insights
+Philosophy: "Determination + Hard Work + Discipline + Honesty = Success"
+
+Education:
+  - Agriculture: "HKBP Nommensen University (GPA: 3.91/4.00 - Laude)"
+  - Data Science: "Dibimbing Bootcamp (In Progress)"
   
-<!-- These will work once your GitHub profile is established -->
-[![GitHub Profile](https://img.shields.io/badge/GitHub-fepi--sidabalok-181717?style=flat-square&logo=github)](https://github.com/fepi-sidabalok)
-[![Profile Views](https://komarev.com/ghpvc/?username=fepi-sidabalok&color=brightgreen&style=flat-square)](https://github.com/fepi-sidabalok)
-
-</div>
-
----
-
-## 🚀 My Journey
-
-<div align="center">
-  
-<!-- GitHub Stats will appear here once your repositories are set up -->
-**🚀 Building my GitHub presence - Stats coming soon!**
-
-</div>
-
-### 📚 Education & Learning Path
-
-**🎓 Agriculture Degree (2018-2022)**
-- HKBP Nommensen University
-- GPA 3.91/4.00 (Laude)
-- BIDIKMISI Scholarship
-
-**🏦 Banking Professional (2023-Present)**
-- PT Bank Victoria International
-- Customer Service Excellence
-
-**📊 Data Science (2025-Present)**
-- Dibimbing Bootcamp
-- Python • SQL • Tableau
-
----
-
-## 💻 Tech Stack & Skills
-
-<div align="center">
-
-### 🔧 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📈 Visualization & Tools
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Achievements & Awards
-
-<div align="center">
-
-| 🏅 Award | 🏛️ Organization | 📅 Year |
-|----------|------------------|----------|
-| **Palm Oil Research Competition Winner** | Ministry of Finance RI (BPDPKS) | 2022 |
-| **Chemistry Olympiad Award** | Ministry of Education & Culture | 2021 |
-| **National Library Opinion Writer** | Perpusnas Press Publisher | 2020 |
-| **Biology Olympiad Award** | Ministry of Education & Culture | 2020 |
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🏦 Bank Teller (2023-Present)
-- 💰 Processing transactions (deposits, withdrawals, transfers)
-- 👥 Customer service excellence and consultation
-- 📋 Compliance with banking regulations
-- 🔄 Cash management and transaction facilitation
-
-### 🛒 Purchasing Specialist (March-May 2023)
-- 📦 Procurement and supplier negotiations
-- 🤝 Supplier relationship management
-- 📄 Documentation and invoice processing
-
-### 🎓 Assistant Lecturer (2022-2023)
-- 👨‍🏫 Teaching 40+ students
-- 📝 Assessment and feedback provision
-- 📊 Research methodology instruction
-
----
-
-## 📊 GitHub Analytics
+Experience:
+  - Banking: "PT Bank Victoria International"
+  - Academia: "Assistant Lecturer"
+  - Research: "Palm Oil Industry Analysis"
+```
 
 <div align="center">
   
-<!-- Stats will be available once your GitHub profile is active -->
-**📈 GitHub analytics will display here once you start pushing code!**
-
-[![GitHub Profile](https://img.shields.io/badge/Follow-@fepi--sidabalok-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fepi-sidabalok)
+[![Profile Views](https://komarev.com/ghpvc/?username=fepi-sidabalok&color=0891b2&style=flat-square&label=Profile%20Views)](https://github.com/fepi-sidabalok)
+[![GitHub followers](https://img.shields.io/github/followers/fepi-sidabalok?label=Followers&style=social)](https://github.com/fepi-sidabalok?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/fepi-sidabalok)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ **Technical Arsenal**
 
-<div>
+<div align="center">
 
-```python
-class FepiSidabalok:
-    def __init__(self):
-        self.current_focus = [
-            "📊 Advanced Data Science Techniques",
-            "🤖 Machine Learning Algorithms", 
-            "📈 Statistical Analysis & Hypothesis Testing",
-            "🔍 Exploratory Data Analysis",
-            "📱 Data Visualization Mastery"
-        ]
-        
-    def daily_goals(self):
-        return {
-            "learn": "New data science concepts",
-            "practice": "Python & SQL skills",
-            "build": "Real-world data projects",
-            "grow": "Professional network"
-        }
-        
-    def life_motto(self):
-        return "Determination + Hard Work + Discipline + Honesty = Success ✨"
+### **Programming & Data Science**
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### **Visualization & Analytics**
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### **Development Environment**
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 🎓 **Professional Journey**
+
+<div align="center">
+
+```mermaid
+timeline
+    title Professional Evolution
+    
+    2018-2022 : Agriculture Studies
+              : HKBP Nommensen University
+              : GPA 3.91/4.00 (Laude) 🎓
+              : BIDIKMISI Scholar
+              
+    2022-2023 : Academic Excellence
+              : Assistant Lecturer
+              : Teaching & Research
+              
+    2023-Present : Banking Professional
+                 : PT Bank Victoria International
+                 : Customer Excellence & Operations
+                 
+    2025-Present : Data Science Journey
+                 : Dibimbing Bootcamp
+                 : Python • ML • Analytics
 ```
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## 🏆 **Achievements & Recognition**
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🥇 Research Excellence**<br/>
+*Palm Oil Research Winner*<br/>
+Ministry of Finance RI<br/>
+**2022**
+
+</td>
+<td align="center" width="25%">
+
+**🧪 Science Olympiad**<br/>
+*Chemistry Award*<br/>
+Ministry of Education<br/>
+**2021**
+
+</td>
+<td align="center" width="25%">
+
+**📚 Academic Writing**<br/>
+*National Library Writer*<br/>
+Perpusnas Press<br/>
+**2020**
+
+</td>
+<td align="center" width="25%">
+
+**🧬 Biology Excellence**<br/>
+*Biology Olympiad*<br/>
+Ministry of Education<br/>
+**2020**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 **Professional Experience**
+
+<details>
+<summary><b>🏦 Bank Teller - PT Bank Victoria International</b> <i>(2023 - Present)</i></summary>
+
+<br/>
+
+**Key Responsibilities:**
+- 💰 **Transaction Management**: Process deposits, withdrawals, and transfers with 99.9% accuracy
+- 👥 **Customer Relations**: Deliver exceptional service to 50+ daily clients
+- 📊 **Financial Analysis**: Support customers with account insights and recommendations
+- 🔒 **Compliance**: Maintain strict adherence to banking regulations and security protocols
+
+**Achievements:**
+- Maintained zero discrepancies in cash handling for 12+ consecutive months
+- Achieved customer satisfaction rating of 4.8/5.0
+
+</details>
+
+<details>
+<summary><b>🎓 Assistant Lecturer - HKBP Nommensen University</b> <i>(2022 - 2023)</i></summary>
+
+<br/>
+
+**Key Contributions:**
+- 👨‍🏫 **Education**: Instructed 40+ undergraduate students in agricultural sciences
+- 📝 **Assessment**: Designed and evaluated academic assessments and projects
+- 🔬 **Research**: Conducted research in palm oil sustainability and agricultural innovation
+- 📊 **Methodology**: Taught statistical analysis and research methodology
+
+</details>
+
+<details>
+<summary><b>🛒 Purchasing Specialist</b> <i>(March - May 2023)</i></summary>
+
+<br/>
+
+**Core Functions:**
+- 📦 **Procurement Strategy**: Managed supplier relationships and negotiations
+- 💼 **Cost Optimization**: Achieved 15% cost reduction through strategic sourcing
+- 📄 **Documentation**: Streamlined procurement processes and documentation
+
+</details>
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fepi-sidabalok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fepi-sidabalok&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fepi-sidabalok)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fepi.sidabalok@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fepi-sidabalok)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepi-sidabalok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=fepi-sidabalok&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true" />
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</div>
+---
+
+## 🎯 **Current Learning Path**
+
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+
+**🚀 Data Science Mastery (2025)**
+- Advanced Statistical Analysis & A/B Testing
+- Machine Learning Algorithms & Model Optimization  
+- Deep Learning with TensorFlow & PyTorch
+- Big Data Processing with Apache Spark
+- MLOps & Production Deployment
+
+**📊 Specialized Skills**
+- Time Series Forecasting for Financial Markets
+- Natural Language Processing for Banking
+- Computer Vision for Agricultural Applications
+- Predictive Analytics for Risk Assessment
+
+**🎓 Certifications in Progress**
+- Google Data Analytics Professional Certificate
+- AWS Machine Learning Specialty
+- Tableau Desktop Specialist
+
+---
+
+## 🌟 **Featured Projects**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Data+Science+%2B+Agriculture+%2B+Banking+%3D+Unique+Perspective+%F0%9F%92%A1" alt="Footer Typing SVG" />
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 **Agricultural Data Analysis**
+*Palm Oil Yield Prediction Model*
+
+**Tech Stack:** Python, Scikit-learn, Pandas<br/>
+**Impact:** 85% prediction accuracy<br/>
+**Recognition:** Ministry of Finance Winner 🏆
+
+[![Repo](https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=flat-square&logo=github)](https://github.com/fepi-sidabalok)
+
+</td>
+<td width="50%">
+
+### 🏦 **Banking Analytics Dashboard**
+*Customer Behavior Analysis*
+
+**Tech Stack:** Tableau, SQL, Python<br/>
+**Features:** Real-time insights<br/>
+**Metrics:** Customer satisfaction tracking
+
+[![Repo](https://img.shields.io/badge/Repository-In%20Development-blue?style=flat-square&logo=github)](https://github.com/fepi-sidabalok)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💡 **Philosophy & Approach**
+
+<div align="center">
+
+```python
+class DataScientistMindset:
+    def __init__(self):
+        self.core_values = {
+            "curiosity": "Always ask why and what if",
+            "precision": "Data doesn't lie, but interpretation matters",
+            "collaboration": "Best insights come from diverse perspectives",
+            "continuous_learning": "Stay curious, stay relevant"
+        }
+    
+    def daily_routine(self):
+        return [
+            "🌅 Morning: Industry news and research papers",
+            "💻 Work: Apply data science to real problems", 
+            "📚 Evening: Learn new techniques and tools",
+            "🌙 Night: Reflect and plan tomorrow's growth"
+        ]
+    
+    def life_motto(self):
+        return "Transform data into decisions, decisions into impact! 🚀"
+```
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div>
+
+<a href="https://linkedin.com/in/fepi-sidabalok">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+<a href="mailto:fepi.sidabalok@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+<a href="https://github.com/fepi-sidabalok">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+
+<br/><br/>
+
+**🎯 Open to opportunities in:**
+Data Science • Machine Learning • Financial Analytics • Agricultural Technology
+
 </div>
 
 ---
 
 <div align="center">
-  <b>⭐ Star my repositories if you find them interesting!</b>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+### 💫 *"Every dataset tells a story. My job is to listen, understand, and share its wisdom."*
+
+**⭐ Star my repositories if they inspire you to explore data differently!**
+
+[![Visitor Count](https://profile-counter.glitch.me/fepi-sidabalok/count.svg)](https://github.com/fepi-sidabalok)
+
 </div>
