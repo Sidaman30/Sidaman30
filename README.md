@@ -191,12 +191,14 @@ Ministry of Education<br/>
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fepi-sidabalok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fepi-sidabalok&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepi-sidabalok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=fepi-sidabalok&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true" />
+<img width="49%" src="https://github-readme-stats-git-main-dynamic.vercel.app/api?username=fepi-sidabalok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
+  
+<img width="49%" src="https://streak-stats.demolab.com/?user=fepi-sidabalok&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" />
+
+<img width="49%" src="https://github-readme-stats-git-main-dynamic.vercel.app/api/top-langs/?username=fepi-sidabalok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+
+<img width="49%" src="https://github-activity-graph.cyclic.app/graph?username=fepi-sidabalok&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true" />
 
 </div>
 
@@ -323,7 +325,5 @@ Data Science • Machine Learning • Financial Analytics • Agricultural Techn
 ### 💫 *"Every dataset tells a story. My job is to listen, understand, and share its wisdom."*
 
 **⭐ Star my repositories if they inspire you to explore data differently!**
-
-[![Visitor Count](https://profile-counter.glitch.me/fepi-sidabalok/count.svg)](https://github.com/fepi-sidabalok)
 
 </div>
