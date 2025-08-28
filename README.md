@@ -18,9 +18,9 @@ I'm a **passionate Data Scientist** with a unique background in **Agriculture** 
   
 ### 🎯 Quick Stats
   
-![Profile Views](https://komarev.com/ghpvc/?username=fepi-sidabalok&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/fepi-sidabalok?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/fepi-sidabalok?label=Stars&style=social)
+<!-- These will work once your GitHub profile is established -->
+[![GitHub Profile](https://img.shields.io/badge/GitHub-fepi--sidabalok-181717?style=flat-square&logo=github)](https://github.com/fepi-sidabalok)
+[![Profile Views](https://komarev.com/ghpvc/?username=fepi-sidabalok&color=brightgreen&style=flat-square)](https://github.com/fepi-sidabalok)
 
 </div>
 
@@ -29,8 +29,10 @@ I'm a **passionate Data Scientist** with a unique background in **Agriculture** 
 ## 🚀 My Journey
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fepi-sidabalok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fepi-sidabalok&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+<!-- GitHub Stats will appear here once your repositories are set up -->
+**🚀 Building my GitHub presence - Stats coming soon!**
+
 </div>
 
 ### 📚 Education & Learning Path
@@ -113,8 +115,12 @@ I'm a **passionate Data Scientist** with a unique background in **Agriculture** 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepi-sidabalok&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fepi-sidabalok&theme=tokyo-night&hide_border=true&area=true" width="50%" alt="Activity Graph" />
+  
+<!-- Stats will be available once your GitHub profile is active -->
+**📈 GitHub analytics will display here once you start pushing code!**
+
+[![GitHub Profile](https://img.shields.io/badge/Follow-@fepi--sidabalok-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fepi-sidabalok)
+
 </div>
 
 ---
