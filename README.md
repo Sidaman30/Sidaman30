@@ -8,6 +8,24 @@
 
 </div>
 
+---
+
+## 📂 **Portfolio & Projects**
+
+<div align="center">
+
+### 🎯 **Explore My Complete Work**
+
+<a href="https://drive.google.com/drive/folders/1H3LLLfv9OYijVnQFsgWqpLr0-xfIHN9F">
+<img src="https://img.shields.io/badge/📁_View_Full_Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4" height="50"/>
+</a>
+
+**Contains:** Data Science Projects • Machine Learning Models • Analysis Reports • Visualizations
+
+</div>
+
+---
+
 ## 🎯 **About Me**
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
@@ -200,6 +218,8 @@ Ministry of Education<br/>
 
 </div>
 
+---
+
 ## 🎯 **Current Learning Path**
 
 <img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
@@ -239,7 +259,9 @@ Ministry of Education<br/>
 **Impact:** 85% prediction accuracy<br/>
 **Recognition:** Ministry of Finance Winner 🏆
 
-[![Repo](https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=flat-square&logo=github)](https://github.com/fepi-sidabalok)
+<a href="https://drive.google.com/drive/folders/1H3LLLfv9OYijVnQFsgWqpLr0-xfIHN9F">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=flat-square&logo=google-drive&logoColor=white" />
+</a>
 
 </td>
 <td width="50%">
@@ -251,11 +273,21 @@ Ministry of Education<br/>
 **Features:** Real-time insights<br/>
 **Metrics:** Customer satisfaction tracking
 
-[![Repo](https://img.shields.io/badge/Repository-In%20Development-blue?style=flat-square&logo=github)](https://github.com/fepi-sidabalok)
+<a href="https://drive.google.com/drive/folders/1H3LLLfv9OYijVnQFsgWqpLr0-xfIHN9F">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=flat-square&logo=google-drive&logoColor=white" />
+</a>
 
 </td>
 </tr>
 </table>
+
+### 📁 **More Projects Available**
+
+<a href="https://drive.google.com/drive/folders/1H3LLLfv9OYijVnQFsgWqpLr0-xfIHN9F">
+<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+*Complete portfolio includes: Data Analysis • Machine Learning Models • Statistical Reports • Interactive Dashboards*
 
 </div>
 
@@ -293,16 +325,19 @@ class DataScientistMindset:
 
 ## 🤝 **Let's Connect & Collaborate**
 
-<div>
+<div align="center">
 
 <a href="https://linkedin.com/in/fepi-sidabalok">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
-<a href="mailto:fepi.sidabalok@email.com">
+<a href="mailto:fepisidabalok123@email.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
-<a href="https://github.com/fepi-sidabalok">
+<a href="https://github.com/Sidaman30">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+<a href="https://drive.google.com/drive/folders/1H3LLLfv9OYijVnQFsgWqpLr0-xfIHN9F">
+<img src="https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4" />
 </a>
 
 <br/><br/>
@@ -321,5 +356,7 @@ Data Science • Machine Learning • Financial Analytics • Agricultural Techn
 ### 💫 *"Every dataset tells a story. My job is to listen, understand, and share its wisdom."*
 
 **⭐ Star my repositories if they inspire you to explore data differently!**
+
+[![Portfolio](https://img.shields.io/badge/📂_Complete_Portfolio_on_Google_Drive-Click_Here-4285F4?style=for-the-badge)](https://drive.google.com/drive/folders/1H3LLLfv9OYijVnQFsgWqpLr0-xfIHN9F)
 
 </div>
